@@ -1,31 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:06.461732
+#+DATE: 2015-08-30 19:32:21.777222
 #+TITLE: 增壹阿含經
 #+PROPERTY: CBETA_ID T02n0125
 #+PROPERTY: ID KR6a0126
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 125
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6a0126_T_027-0698c> 
 #+PROPERTY: JUAN 27
 ¶
-
- 《增壹阿含經》卷第二十七¶
+《增壹阿含經》卷第二十七¶
 ¶
 東晉罽賓三藏瞿曇僧伽提婆譯¶
 
-35邪聚品
-:PROPERTIES:
-:head: 邪聚品第三十五
-:END:
-¶
+邪聚品第三十五¶
 
-1
-:PROPERTIES:
-:head: （一）
-:END:
-
+（一）
 
 聞如是：
 
@@ -76,11 +67,7 @@
 爾時，諸比丘聞佛所說，歡喜¶
 奉行。¶
 
-2
-:PROPERTIES:
-:head: （二）
-:END:
-
+（二）
 
 聞如是：
 
@@ -97,11 +84,7 @@
 
 爾時，諸比丘聞佛所說，歡喜奉行。¶
 
-3
-:PROPERTIES:
-:head: （三）
-:END:
-
+（三）
 
 聞如是：
 
@@ -139,11 +122,7 @@
 爾時，諸比丘聞佛所說，歡¶
 喜奉行。¶
 
-4
-:PROPERTIES:
-:head: （四）
-:END:
-
+（四）
 
 聞如是：
 
@@ -187,11 +166,7 @@
 爾時，諸比丘聞佛所說，歡¶
 喜奉行。¶
 
-5
-:PROPERTIES:
-:head: （五）
-:END:
-
+（五）
 
 聞如是：
 
@@ -239,11 +214,7 @@
 爾時，諸比丘聞佛所說，歡喜¶
 奉行。¶
 
-6
-:PROPERTIES:
-:head: （六）
-:END:
-
+（六）
 
 聞如是：
 
@@ -264,11 +235,7 @@
 
 爾時，諸比丘聞佛所說，歡喜奉行。¶
 
-7
-:PROPERTIES:
-:head: （七）
-:END:
-
+（七）
 
 聞如是：
 
@@ -384,11 +351,7 @@
 
 爾時，尊者優頭槃聞佛所說，歡喜奉行。¶
 
-8
-:PROPERTIES:
-:head: （八）
-:END:
-
+（八）
 
 聞如是：
 
@@ -462,11 +425,7 @@
 爾時，彼比丘聞佛所說，歡¶
 喜奉行。¶
 
-9
-:PROPERTIES:
-:head: （九）
-:END:
-
+（九）
 
 聞如是：
 
@@ -608,11 +567,7 @@
 爾¶
 時，尊者多耆奢聞佛所說，歡喜奉行。¶
 
-10
-:PROPERTIES:
-:head: （一○）
-:END:
-
+（一○）
 
 聞如是：
 
@@ -639,7 +594,7 @@
 此母往至女所，而語女曰：「汝聟實作道乎？」
 <pb:KR6a0126_T_027-0702a>¶
 
-其女報曰：「女亦不詳為作道不耶？」
+其女報曰：「女亦不許為作道不耶？」
 
 其老母¶
 曰：「汝今可自莊嚴著好衣裳，抱此男、女，¶
